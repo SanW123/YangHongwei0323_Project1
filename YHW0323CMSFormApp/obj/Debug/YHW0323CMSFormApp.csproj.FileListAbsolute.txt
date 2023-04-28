@@ -1,0 +1,16 @@
+C:\Users\YHW\source\repos\YHW0323CMSFormApp\YHW0323CMSFormApp\bin\Debug\YHW0323CMSFormApp.exe.config
+C:\Users\YHW\source\repos\YHW0323CMSFormApp\YHW0323CMSFormApp\bin\Debug\YHW0323CMSFormApp.exe
+C:\Users\YHW\source\repos\YHW0323CMSFormApp\YHW0323CMSFormApp\bin\Debug\YHW0323CMSFormApp.pdb
+C:\Users\YHW\source\repos\YHW0323CMSFormApp\YHW0323CMSFormApp\obj\Debug\YHW0323CMSFormApp.csproj.AssemblyReference.cache
+C:\Users\YHW\source\repos\YHW0323CMSFormApp\YHW0323CMSFormApp\obj\Debug\YHW0323CMSFormApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\YHW\source\repos\YHW0323CMSFormApp\YHW0323CMSFormApp\obj\Debug\YHW0323CMSFormApp.CustomerForm.resources
+C:\Users\YHW\source\repos\YHW0323CMSFormApp\YHW0323CMSFormApp\obj\Debug\YHW0323CMSFormApp.JobDetailsForm.resources
+C:\Users\YHW\source\repos\YHW0323CMSFormApp\YHW0323CMSFormApp\obj\Debug\YHW0323CMSFormApp.ReportsForm.resources
+C:\Users\YHW\source\repos\YHW0323CMSFormApp\YHW0323CMSFormApp\obj\Debug\YHW0323CMSFormApp.WorkerForm.resources
+C:\Users\YHW\source\repos\YHW0323CMSFormApp\YHW0323CMSFormApp\obj\Debug\YHW0323CMSFormApp.main.resources
+C:\Users\YHW\source\repos\YHW0323CMSFormApp\YHW0323CMSFormApp\obj\Debug\YHW0323CMSFormApp.Properties.Resources.resources
+C:\Users\YHW\source\repos\YHW0323CMSFormApp\YHW0323CMSFormApp\obj\Debug\YHW0323CMSFormApp.csproj.GenerateResource.cache
+C:\Users\YHW\source\repos\YHW0323CMSFormApp\YHW0323CMSFormApp\obj\Debug\YHW0323CMSFormApp.csproj.CoreCompileInputs.cache
+C:\Users\YHW\source\repos\YHW0323CMSFormApp\YHW0323CMSFormApp\obj\Debug\YHW0323CMSFormApp.exe
+C:\Users\YHW\source\repos\YHW0323CMSFormApp\YHW0323CMSFormApp\obj\Debug\YHW0323CMSFormApp.pdb
+C:\Users\YHW\source\repos\YHW0323CMSFormApp\YHW0323CMSFormApp\obj\Debug\YHW0323CMSFormApp.JobDetailsForm5.resources
